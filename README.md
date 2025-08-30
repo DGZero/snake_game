@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.x-blue)](https://www.python.org/downloads/) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/my-snake-game?style=social)](https://github.com/your-username/my-snake-game/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/DGZero/snake_game?style=social)](https://github.com/your-username/my-snake-game/stargazers)
 [![Run on Repl.it](https://repl.it/badge/github/your-username/my-snake-game)](https://repl.it/github/your-username/my-snake-game)
 
 A classic **Snake** game implemented in **Python** using the **Turtle** library.  
